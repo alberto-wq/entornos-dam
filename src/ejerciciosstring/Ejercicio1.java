@@ -23,6 +23,8 @@ public class Ejercicio1 {
 		}
 
 		System.out.println("El número de vocales es: " + numVocales);
+		
+		System.out.println("Estamos en método esVocal");
 
 
 
